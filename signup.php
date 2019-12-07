@@ -26,6 +26,8 @@
 		<br>
 		<label>Birthday:</label>
 		<input type="date" value="" name="birthday" />
+		<br>
+		<input type="submit" value="Submit" />
 		</form>
 	</body>
 </html>
